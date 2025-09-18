@@ -1,0 +1,1 @@
+This report provides a hospital performance analysis using Power BI, focusing on average length of stay, discharge costs, severity of illness, and patient disposition, with detailed profiles for selected hospitals.
